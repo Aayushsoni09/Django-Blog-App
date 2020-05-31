@@ -1,16 +1,14 @@
 <link href="//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">
 h1 a, h2 a {
-    color: rgb(250, 188, 30);
+    color: #C25100;
+    font-family: 'Lobster';
 }
 body {
     padding-left: 15px;
 }
-h1 a, h2 a {
-    color: rgb(250, 188, 30);
-    font-family: 'Lobster';
-}
+
 .page-header {
-    background-color: rgb(250, 188, 30);
+    background-color: #C25100;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -54,4 +52,7 @@ h1, h2, h3, h4 {
 
 .post h2 a, .post h2 a:visited {
     color: #000000;
+}
+.comment {
+    margin: 20px 0px 20px 20px;
 }
